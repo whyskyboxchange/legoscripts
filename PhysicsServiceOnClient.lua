@@ -1,0 +1,3 @@
+--Update 1: Finally ported it all
+--Update 2: Minified it because some people were lagging (Idk how Lol)
+--Update 3: Added a second hook cuz in some reason hookmetamethod doesnt work in Synapse X
